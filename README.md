@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Gustavo Henrique 👋
 
 - 🧑‍💼 Atualmente trabalho com desenvolvimento RPA (Robotic Process Automation)
+- 👨🏾‍💻 Habilidades com Python, UiPath, SQL
 - 🌱 Estudo códigos e programação no geral, assim como processos e estrutura de negócios
-- 💚 Cooperativista
+
 
 <div align="center">
   <a href="https://github.com/gustavoohenrique">
@@ -21,7 +22,7 @@
  
  <div> 
  
-  <a href="https://instagram.com/gustavohenriquebjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gustavohsilva07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:silva_gustavohenrique@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavohenriquems/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
